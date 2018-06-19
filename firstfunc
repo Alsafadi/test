@@ -1,0 +1,4 @@
+function(n=20){
+n <- n
+rnorm(n, mean=10, sd=4)
+}
